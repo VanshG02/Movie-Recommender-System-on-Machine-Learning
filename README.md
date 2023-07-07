@@ -1,5 +1,6 @@
 # Movie-Recommender-System-on-Machine-Learning
-A fully working code for a Machine Learning based Movie Recommender using Jupyter Notebook and Python
+
+Machine Learning based Movie Recommender on Content Based Filtering 
 
 
 The landing screen with a dropdown menu and a recommender button.
